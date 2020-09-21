@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff;
+    font-size: 100%;
+    line-height: 22px;
+    font-family: "Microsoft YaHei";
+}
+
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div, tr, dl, dd, select, option {
+    margin: 0;
+    padding: 0;
+}
+
+.body, .ul, .ol, .li, .p, .h1, .h2, .h3, .h4, .h5, .h6, .form, .fieldset, .table, .td, .img, .div, .tr, .dl, .dd, .select, .option {
+    margin: 0;
+    padding: 0;
+}
+
+li, img, input, em, select {
+    list-style: none;
+    border: none;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none !important;
+    cursor: pointer !important;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+.img_cover {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.tr {
+    transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}

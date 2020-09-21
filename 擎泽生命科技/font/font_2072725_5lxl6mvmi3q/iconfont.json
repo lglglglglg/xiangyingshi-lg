@@ -1,0 +1,58 @@
+{
+  "id": "2072725",
+  "name": "名炬 3 擎泽生物科技",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "212567",
+      "name": "qq",
+      "font_class": "icon363601",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "2210060",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4596217",
+      "name": "叉号",
+      "font_class": "chahao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "6188544",
+      "name": "QQ 空间",
+      "font_class": "QQkongjian",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "10502815",
+      "name": "加好",
+      "font_class": "jiahao",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "11819112",
+      "name": "新浪微博",
+      "font_class": "weibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15385745",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}

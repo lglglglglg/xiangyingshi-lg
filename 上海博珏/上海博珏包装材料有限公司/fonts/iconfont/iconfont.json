@@ -1,0 +1,37 @@
+{
+  "id": "1772379",
+  "name": "上海衡泌金属材料有限公司",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2668432",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "3091964",
+      "name": "电话 正在拨号",
+      "font_class": "dianhua1",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "8063129",
+      "name": "聊天",
+      "font_class": "xiaoxi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9669061",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
